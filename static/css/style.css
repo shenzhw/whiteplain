@@ -754,6 +754,17 @@ background-color: #FF6600
   border-color: #2795e9;
 }
 
+.resp-sharing-button--x {
+  background-color: #000000;
+  border-color: #000000;
+}
+
+.resp-sharing-button--x:hover,
+.resp-sharing-button--x:active {
+  background-color: #505050;
+  border-color: #505050;
+}
+
 .resp-sharing-button--bluesky {
   background-color: #1185FE;
   border-color: #1185FE;
@@ -761,8 +772,8 @@ background-color: #FF6600
 
 .resp-sharing-button--bluesky:hover,
 .resp-sharing-button--bluesky:active {
-  background-color: #252b37;
-  border-color: #252b37;
+  background-color: #0675DE;
+  border-color: #0675DE;
 }
 
 /* === sharingbuttons.io end === */
